@@ -1,3 +1,7 @@
 hey my name is bharat
+
 i am using git to test branch merging, i am d2 and making changes in it
+
+
+i am using git to test branch merging , i am editing this as d1
 
